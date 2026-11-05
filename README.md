@@ -1,0 +1,1 @@
+Kişisel Nest → MQTT köprüsü
